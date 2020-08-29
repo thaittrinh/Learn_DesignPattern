@@ -1,0 +1,1 @@
+IoC là hướng đi, DIP là định hình cụ thể của hướng đi, còn DI là một hiện thực cụ thể.
